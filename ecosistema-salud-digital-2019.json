@@ -2,25 +2,25 @@
 "children": [
 
 {"name": "CORFO","children": [
-{"name": "ProyectoA1","size": 1 },
-{"name": "ProyectoA2","size": 1 }
+{"name": "ProyectoA1","size": 100 },
+{"name": "ProyectoA2","size": 100 }
           ]
        }
      ]
    },
 
 {"name": "Hospital Digital","children": [
-{"name": "ProyectoB1","size": 1 },
-{"name": "ProyectoB2","size": 1 }
+{"name": "ProyectoB1","size": 100 },
+{"name": "ProyectoB2","size": 100 }
           ]
        }
      ]
    }, 
 {"name": "CePIs","children": [
-{"name": "Kinemotion","size": 1 },
-{"name": "Telediagnósticos","size": 1 },
-{"name": "LabLife","size": 1 },
-{"name": "CALCE","size": 1 }
+{"name": "Kinemotion","size": 100 },
+{"name": "Telediagnósticos","size": 100 },
+{"name": "LabLife","size": 100 },
+{"name": "CALCE","size": 100 }
           ]
        }
      ]
