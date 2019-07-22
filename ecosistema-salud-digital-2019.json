@@ -1,23 +1,28 @@
 {"name": "SALUD DIGITAL CHILE",
- "children": [
-             {"name": "IDEAS",
-              "children": [
-                          {"name": "KM - Latch",
-                          "children": [ {"name": "Location", "size": 1005},
-                                        {"name": "Alphabetic", "size": 1004},
-                                        {"name": "Timeline", "size": 1003},
-                                        {"name": "Category", "size": 1002},
-                                        {"name": "Hierarchy", "size": 1001}
-                                      ]
-                          }
-                          ]
-             }, 
-             {"name": "Objects for Real Desing",
-              "children": [ {"name": "Water", "size": 2001},
-                            {"name": "xtream Situations", "size": 2002},
-                            {"name": "Drones", "size": 2003},
-                            {"name": "Otros", "size": 2004}
-                          ]
-             }
-             ]
- }
+"children": [
+
+{"name": "CORFO","children": [
+{"name": "ProyectoA1","size": 1 },
+{"name": "ProyectoA2","size": 1 },
+"          ]
+       }
+     ]
+   }, "
+
+
+{"name": "Hospital Digital","children": [
+{"name": "ProyectoB1","size": 1 },
+{"name": "ProyectoB2","size": 1 },
+"          ]
+       }
+     ]
+   }, "
+{"name": "CePIs","children": [
+{"name": "Kinemotion","size": 1 },
+{"name": "Telediagnósticos","size": 1 },
+{"name": "LabLife","size": 1 },
+{"name": "CALCE","size": 1 },
+"          ]
+       }
+     ]
+   }"
