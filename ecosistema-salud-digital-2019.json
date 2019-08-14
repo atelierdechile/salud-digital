@@ -1,5 +1,3 @@
-
-
 {"name": "SALUD DIGITAL CHILE",
 "children": [
 {"name": "CORFO","children": [
@@ -32,9 +30,6 @@
 {"name": "CENS","children": [
 {"name": "Wellbin","size": 100 },
 {"name": "FootShot","size": 100 },
-{"name": "","size":  }
-
-
    ]      }      ,
 {"name": "Concurso INACAP","children": [
 {"name": "INACAPproyecto","size": 100 }
