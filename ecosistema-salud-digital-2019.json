@@ -6,12 +6,12 @@
    ]              }, 
 
 {"name": "Hospital Digital","children": [
-{"name": "Telemedicina: ACV","size": 100 },
-{"name": "Telemedicina: Nefrología","size": 100 },
-{"name": "Telemedicina: Diabetes","size": 100 },
-{"name": "Telemedicina: Dermatología","size": 100 },
-{"name": "Telemedicina: DART","size": 100 },
-{"name": "Telemedicina: Quemados","size": 100 },
+{"name": "Telemedicina ACV","size": 100 },
+{"name": "Telemedicina Nefrología","size": 100 },
+{"name": "Telemedicina Diabetes","size": 100 },
+{"name": "Telemedicina Dermatología","size": 100 },
+{"name": "Telemedicina DART","size": 100 },
+{"name": "Telemedicina Quemados","size": 100 },
 {"name": "Agendamiento Remoto","size": 100 },
 {"name": "Salud Rural Digital","size": 100 },
 {"name": "ELEAM","size": 100 },
