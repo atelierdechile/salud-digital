@@ -1,8 +1,20 @@
+
+
 { "type": "FeatureCollection",
 "features": [
 
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3413898, -33.4402614]},"properties": {"name": "CALCE", "Tipo": "CePIs", "Jefe Proyecto": "Nombre1", "Fono": "562" , "Serv Salud": "SSMSO"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.4044116, -33.4017159]},"properties": {"name": "NurseEye", "Tipo": "", "Jefe Proyecto": "Nombre2", "Fono": "562" , "Serv Salud": "Av. Vitacura 3783"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.7586543, -34.985763]},"properties": {"name": "Curicó ", "Tipo": "", "Jefe Proyecto": "Nombre3", "Fono": "562" , "Serv Salud": "Plaza Estado 336"} }
-]
-}
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.3413898, -33.4402614]},"properties": {"name": "CALCE", "Sponsor": "CePIs", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "SSMSO"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.4044116, -33.4017159]},"properties": {"name": "NurseEye", "Sponsor": "CePIs", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "Av. Vitacura 3783"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.7586543, -34.985763]},"properties": {"name": "Footshot", "Sponsor": "CENS", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "Plaza Estado 336"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.7586543, -34.985763]},"properties": {"name": "Telemedicina: ACV", "Sponsor": "Hospital Digital", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "MINSAL"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.350693, -33.436489]},"properties": {"name": "Telemedicina: Nefrología", "Sponsor": "Hospital Digital", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "MINSAL"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.350693, -33.436489]},"properties": {"name": "Telemedicina: Diabetes", "Sponsor": "Hospital Digital", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "MINSAL"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.350693, -33.436489]},"properties": {"name": "Telemedicina: Dermatología", "Sponsor": "Hospital Digital", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "MINSAL"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.350693, -33.436489]},"properties": {"name": "Telemedicina: DART", "Sponsor": "Hospital Digital", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "MINSAL"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.350693, -33.436489]},"properties": {"name": "Telemedicina: Quemados", "Sponsor": "Hospital Digital", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "MINSAL"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.350693, -33.436489]},"properties": {"name": "Agendamiento Remoto", "Sponsor": "Hospital Digital", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "MINSAL"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.350693, -33.436489]},"properties": {"name": "Salud Rural Digital", "Sponsor": "Hospital Digital", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "MINSAL"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.350693, -33.436489]},"properties": {"name": "ELEAM", "Sponsor": "Hospital Digital", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "MINSAL"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.350693, -33.436489]},"properties": {"name": "Portal Hospital Digital", "Sponsor": "Hospital Digital", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "MINSAL"} },
+
+]     }
