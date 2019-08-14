@@ -29,7 +29,7 @@
    ]      }      ,
 {"name": "CENS","children": [
 {"name": "Wellbin","size": 100 },
-{"name": "FootShot","size": 100 },
+{"name": "FootShot","size": 100 }
    ]      }      ,
 {"name": "Concurso INACAP","children": [
 {"name": "INACAPproyecto","size": 100 }
