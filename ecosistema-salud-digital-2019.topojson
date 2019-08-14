@@ -15,6 +15,6 @@
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.350693, -33.436489]},"properties": {"name": "Agendamiento Remoto", "Sponsor": "Hospital Digital", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "MINSAL"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.350693, -33.436489]},"properties": {"name": "Salud Rural Digital", "Sponsor": "Hospital Digital", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "MINSAL"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.350693, -33.436489]},"properties": {"name": "ELEAM", "Sponsor": "Hospital Digital", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "MINSAL"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.350693, -33.436489]},"properties": {"name": "Portal Hospital Digital", "Sponsor": "Hospital Digital", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "MINSAL"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.350693, -33.436489]},"properties": {"name": "Portal Hospital Digital", "Sponsor": "Hospital Digital", "Jefe Proyecto": "Pendiente", "Fono": "562" , "Serv Salud": "MINSAL"} }
 
 ]     }
